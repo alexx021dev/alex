@@ -1,2 +1,2 @@
 # alex
-his is my first GitHub repository.
+this is my first GitHub repository.
